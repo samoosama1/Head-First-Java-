@@ -19,10 +19,21 @@ public class EchoTestDrive {
         System.out.println(e2.count);
     }
 }
-
+ 
 class Echo {
     int count = 0;
     void hello()  {
         System.out.println("helloooo... ");
     }
 }
+
+/*  
+    output:
+    
+    helloooo... 
+    helloooo... 
+    helloooo...
+    helloooo...
+    24
+*/
+

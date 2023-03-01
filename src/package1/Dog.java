@@ -6,6 +6,14 @@ class Dog {
     String name;
 
     void bark() {
-        System.out.println("Ruff! Ruff!");
+        System.out.println(name + " says Ruff!");
+    }
+
+    void eat() {
+        System.out.println("Eating");
+    }
+
+    void chaseCat() {
+        System.out.println("Chasing a cat")
     }
 }

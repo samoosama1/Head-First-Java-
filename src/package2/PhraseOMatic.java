@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 package package2;
 
+>>>>>>> 98897548d40da810e605585d2a970308864986e3
 public class PhraseOMatic {
     public static void main(String[] args) {
         
